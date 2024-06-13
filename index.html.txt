@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kino Project</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #b71c1c;
+            color: #fff;
+            padding: 20px 0;
+        }
+        header img {
+            width: 100%;
+            max-width: 1080px;
+        }
+        .content {
+            padding: 20px;
+        }
+        .content img {
+            width: 200px;
+            margin: 10px;
+        }
+        .links a {
+            display: inline-block;
+            margin: 10px;
+            padding: 10px 20px;
+            background-color: #b71c1c;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .links a:hover {
+            background-color: #7f0000;
+        }
+        footer {
+            background-color: #b71c1c;
+            color: #fff;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="file-OzqTHeywNkStfUXYeTGn8E5w" alt="Kino Banner">
+    </header>
+    <div class="content">
+        <h1>Meet Kino!</h1>
+        <p>His dream is to be a famous movie director. His goal is to film a movie on the moon with his friends! Will you join him on his adventure?</p>
+        <img src="file-cBfm0ZNf4XESakwAtuoArQKx" alt="Kino Image 1">
+        <img src="file-ElVCkADa1T3MMNJclo83mvEY" alt="Kino Image 2">
+        <img src="file-OOtQy1A57iEgZ6js6QatsdF4" alt="Kino Image 3">
+        <div class="links">
+            <a href="https://t.me/kinoproductionhouse" target="_blank">Join us on Telegram</a>
+            <a href="https://x.com/filmmakerkino?t=o-0ZmuFFjX0TyuOvfOQgtw&s=09" target="_blank">Follow us on Twitter</a>
+            <a href="https://ape.store/base/0xe03d37166238e71caa64da3f26aacba1ecf6b19d" target="_blank">Buy Kino</a>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Kino Production House</p>
+    </footer>
+</body>
+</html>
